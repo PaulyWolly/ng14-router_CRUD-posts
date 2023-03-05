@@ -1,0 +1,16 @@
+.navbar-brand {
+    color: white;
+}
+.nav-link {
+    color: #808080;
+}
+.nav-link:active {
+    color: white;
+}
+.nav-link:hover {
+    color: #c7c6c6;
+    cursor: pointer;
+}
+li>a.active {
+    color: #F97924
+}
